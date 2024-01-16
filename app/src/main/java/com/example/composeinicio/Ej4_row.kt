@@ -24,7 +24,7 @@ class Ej4_row {
 
     @Preview(
         showSystemUi = true,
-        name="MRN ExComposeApp_Column",
+
 
     )
 

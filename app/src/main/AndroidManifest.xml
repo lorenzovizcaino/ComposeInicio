@@ -13,13 +13,23 @@
         android:theme="@style/Theme.ComposeInicio"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivityBotones"
-            android:exported="false" />
+            android:name=".MainActivityEj3Row"
+            android:exported="false"
+            android:label="@string/title_activity_main_ej3_row"
+            android:theme="@style/Theme.ComposeInicio" />
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.ComposeInicio">
+            android:name=".MainActivityEj3Column"
+            android:exported="false"
+            android:label="@string/title_activity_main_ej3_column"
+            android:theme="@style/Theme.ComposeInicio" />
+        <activity
+            android:name=".MainActivityEj2Column"
+            android:exported="false"
+            android:label="@string/title_activity_main_ej2_column"
+            android:theme="@style/Theme.ComposeInicio" />
+        <activity
+            android:name=".BotonesMainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

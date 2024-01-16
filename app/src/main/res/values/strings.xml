@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ComposeInicio</string>
+    <string name="title_activity_main_ej2_column">MainActivityEj2Column</string>
+    <string name="title_activity_main_ej3_column">MainActivityEj3Column</string>
+    <string name="title_activity_main_ej3_row">MainActivityEj3Row</string>
 </resources>
